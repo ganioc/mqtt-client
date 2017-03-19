@@ -9,6 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mqtt": "^2.5.0"
+    "mqtt": "^2.5.0",
+    "underscore": "^1.8.3"
+  },
+  "repository": {
+      "type": "git",
+      "url": 'git@github.com:ganioc/mqtt-client.git'
   }
 }
